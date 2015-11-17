@@ -1,5 +1,7 @@
 ## Homebrew Tap because I hate having to rebuild these things each time
 
+![unmaintained](http://img.shields.io/badge/status-unmaintained-red.png)
+
 #### How do I even use this?
 
 ```bash
